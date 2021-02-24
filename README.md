@@ -1,4 +1,4 @@
-# Figuras Geometricas
+# Figuras Geométricas
 
 Explicación de código fuente
 
